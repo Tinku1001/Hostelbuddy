@@ -2,6 +2,8 @@
 
 **A collaborative web app designed for students to easily borrow and share items within the college.**  
 
+![HostelBuddy Screenshot](./hostelbuddy.jpg)  
+
 ---
 
 ## Inspiration  
